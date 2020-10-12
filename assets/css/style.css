@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.bg {
+  width: 582px;
+  height: 330px;
+  overflow: hidden;
+  position: relative;
+}
+
+.roma {
+  background-image: url(../img/Roma.jpg);
+}
+
+.napoli {
+  background-image: url(../img/Napoli.jpg);
+}
+
+.milano {
+  background-image: url(../img/Milano.jpg);
+}
