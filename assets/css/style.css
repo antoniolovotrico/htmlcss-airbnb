@@ -9,6 +9,7 @@
   overflow: hidden;
   position: relative;
   margin: 20px auto;
+  box-shadow: 5px 5px grey;
 }
 
 h2 {
