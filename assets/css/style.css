@@ -20,6 +20,7 @@ h2 {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 60px;
+  text-shadow: 4px 4px 4px  limegreen;
 }
 .overlay{
   position: absolute;
